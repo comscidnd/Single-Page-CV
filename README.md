@@ -3,3 +3,4 @@ A clean and responsive single-page CV built using HTML and CSS to showcase my sk
 
 
 https://comscidnd.github.io/Single-Page-CV/
+https://roadmap.sh/projects/single-page-cv
